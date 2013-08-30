@@ -1,0 +1,13 @@
+C:\Win8 Store Apps\KoketnaApp\KoketnaApp\bin\Debug\resources.pri
+C:\Win8 Store Apps\KoketnaApp\KoketnaApp\bin\Debug\AppxManifest.xml
+C:\Win8 Store Apps\KoketnaApp\KoketnaApp\bin\Debug\KoketnaApp.build.appxrecipe
+C:\Win8 Store Apps\KoketnaApp\KoketnaApp\bld\Debug\priconfig.xml.intermediate
+C:\Win8 Store Apps\KoketnaApp\KoketnaApp\bld\Debug\layout.resfiles.intermediate
+C:\Win8 Store Apps\KoketnaApp\KoketnaApp\bld\Debug\resources.resfiles.intermediate
+C:\Win8 Store Apps\KoketnaApp\KoketnaApp\bld\Debug\pri.resfiles.intermediate
+C:\Win8 Store Apps\KoketnaApp\KoketnaApp\bld\Debug\priconfig.xml
+C:\Win8 Store Apps\KoketnaApp\KoketnaApp\bld\Debug\layout.resfiles
+C:\Win8 Store Apps\KoketnaApp\KoketnaApp\bld\Debug\resources.resfiles
+C:\Win8 Store Apps\KoketnaApp\KoketnaApp\bld\Debug\pri.resfiles
+C:\Win8 Store Apps\KoketnaApp\KoketnaApp\bld\Debug\LanguageQualifiers.txt
+C:\Win8 Store Apps\KoketnaApp\KoketnaApp\bld\Debug\ProjectArchitectures.txt

@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Product details</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <link href="productdetails.css" rel="stylesheet" />
+    <script src="productdetails.js"></script>
+</head>
+<body>
+    <div class="productdetails fragment">
+        <header aria-label="Header content" role="banner">
+            <button class="win-backbutton" aria-label="Back" disabled type="button"></button>
+            <h2 class="titlearea win-type-ellipsis">
+                <span class="pagetitle" data-win-bind="innerText: name"></span>
+            </h2>
+        </header>
+        <section aria-label="Main content" role="main">
+            <div><img src="#" data-win-bind="source: image"/></div>
+            <p> 
+                <span data-win-bind="innerText: description"></span>,
+                <br />
+                <span data-win-bind="innerText: price.basicPrice"></span>лв.
+                <br />
+                <span data-win-bind="innerText: price.promoPrice"></span>лв.
+            </p>
+        </section>
+    </div>
+</body>
+</html>
